@@ -1,0 +1,14 @@
+body{
+    width: 100vw;
+}
+.navbar-brand {
+    color: white;
+}
+.navbar {
+    border-bottom: 1px solid gray;
+}
+.cuu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
